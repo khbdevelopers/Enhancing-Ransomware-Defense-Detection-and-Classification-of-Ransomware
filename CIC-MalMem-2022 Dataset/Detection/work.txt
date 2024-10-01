@@ -1,0 +1,10 @@
+CNN = done
+LSTM = done
+Bi-LSTM = done
+
+CNN-LSTM = completed (20, 30), pending(50, 100, 150)
+CNN-Bi-LSTM = completed (20, 30, 50, 100), pending (150)
+
+ELM = pending(20, 30, 50, 100, 150)
+MLP = pending(20, 30, 50, 100, 150)
+DBN  = pending(20, 30, 50, 100, 150)
